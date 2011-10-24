@@ -15,13 +15,12 @@ import junit.framework.JUnit4TestAdapter;
  *  test06 - TODO Description
  *  test07 - TODO Description
  *  
- *  @author  TODO Your Name(s)
- *  @version TODO Date
+ *  @author  Brian Axelrod, Kevin Tu
+ *  @version 10/20/11
  *
- *  @author  Period: TODO
+ *  @author  Period: 2
  *  @author  Assignment - GridWorld Part 3 Jumper
  *
- *  @author  Sources: TODO
  */
 public class JUJumperTest
 {

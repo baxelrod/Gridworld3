@@ -7,16 +7,20 @@ import info.gridworld.grid.Location;
  *  A <code>Jumper</code> is an actor that will jump over Rocks and Flowers and
  *  turn. A jumper can remove another jumper by jumping on them.
  * 
- *  @author  TODO Your Name(s)
- *  @version TODO Date
- *  @author  Period: TODO
+ *  @author  Brian Axelrod, Kevin Tu
+ *  @version 10/24/11
+ *  @author  Period: 2
  *  @author  Assignment: GridWorld_Part3_Jumper
  * 
- *  @author  Sources: TODO
  */
 public class Jumper extends Bug implements Edible
 {
-    // TODO constructor(s)
+    public Jumper()
+    {
+    }
 
-    // TODO method(s)
+    public void act()
+    {
+        
+    }
 }
